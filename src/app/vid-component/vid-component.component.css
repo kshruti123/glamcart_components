@@ -1,0 +1,11 @@
+
+#myVideo {
+    /* padding-top:70px; */
+    /* margin-top: 50px; */
+    width: 170px;
+    height: 830px; 
+    object-fit: cover; 
+    float: left; 
+    border: 1px solid black;
+    border-radius: 50px;
+    } 
